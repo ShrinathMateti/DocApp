@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://wallpapers.com/images/featured/office-background-vk6h1kqirocwu1d0.jpg");
+    background-size: cover;
+    overflow-y: hidden;
+}
+
+.card {
+    margin-top: 8em;
+    margin-left: 35em;
+    margin-right: 35em;
+}
