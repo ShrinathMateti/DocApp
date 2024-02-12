@@ -422,7 +422,7 @@
     </div>
 
     <div class="container">
-        <h4 class="text-center mt-1">Book Doctor Appointment</h4>
+        <h5 class="text-center mt-1">Book Doctor Appointment</h5>
         <div class="row">
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
@@ -454,9 +454,36 @@
         </div>
     </div>
 
-    <footer class="bg-dark text-light">
+    <footer class="bg-dark text-light py-4">
         <div class="container">
-
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>Contact Information</h5>
+                    <ul class="list_unstyled">
+                        <li>Address:1234 India</li>
+                        <li>Email:docapp@gmail.com</li>
+                        <li>Phone:+123456789</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Quick Links</h5>
+                    <ul class="list_unstyled">
+                        <li><a href="/" class="text-decoration-none">Home</a></li>
+                        <li><a href="/" class="text-decoration-none">Book Appointment</a></li>
+                        <li><a href="/" class="text-decoration-none">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>About Us</h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam distinctio inventore laboriosam vel sunt obcaecati illum labore consequatur adipisci quis?
+                    </p>
+                </div>
+            </div>
+            <hr class="my-4">
+            <p class="text-muted small">
+                &copy; 2024 DocApp | All rights reserved.
+            </p>
         </div>
     </footer>
     <!-- Modal -->
